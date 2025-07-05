@@ -2,12 +2,9 @@
 layout: default
 ---
 
-# Halo, Saya Aditya Rizky 👋
+# Glad You’re Here — Take a Look at My Work 👋
 
-Selamat datang di portofolio saya!
-
-Saya adalah Technical Writer dengan pengalaman di dokumentasi teknis, tutorial, dan artikel teknologi.
-
+Hi! I'm Aditya Saiful Rizky, a Technical Writer with a background in Informatics Engineering and a passion for making technology easy to understand. With hands-on experience in creating user guides, system documentation, and database dictionaries, I enjoy simplifying technical information so it feels accessible for everyone — not just developers. I believe good documentation is more than just instructions; it's a bridge that connects technology with real people, improves user experience, and helps teams work more efficiently.
 ---
 
 ## ✨ Portofolio
@@ -20,8 +17,19 @@ Saya adalah Technical Writer dengan pengalaman di dokumentasi teknis, tutorial, 
 
 ---
 
-## 📬 Kontak
+## 🧠 Experience
 
-- Email: adityarizky@email.com  
+- **Technical Writer – PT Stara Indonesia**
+  ***Freelance***
+  *April 2024 – September 2024*
+
+- **Technical Writer – PT GITS Indonesia**
+  ***Intern***
+  *Feb 2023 – Jun 2023*
+
+
+## 📬 Let's Connect!
+
+- Email: adityarizky.career@gmail.com 
 - LinkedIn: [linkedin.com/in/adityarizky](https://linkedin.com/in/adityarizky)  
-- GitHub: [github.com/adityarizky](https://github.com/adityarizky)  
+- GitHub: [github.com/adityarizky-career](https://github.com/adityarizky-career)  
